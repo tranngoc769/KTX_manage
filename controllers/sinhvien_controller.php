@@ -17,6 +17,7 @@ class SinhVienController extends BaseController
     $SinhVien = SinhVien::all();
     
     $smarty->assign('dsSinhVien', $SinhVien);
+    $smarty->assign('title', 'Quản lý sinh viên');
     $smarty->display('sinhvien.tpl');
   }
 }

@@ -25229,7 +25229,7 @@ pre[class*=language-]:before {
 }
 
 .pcoded-navbar.dashboard-nav~.pcoded-main-container .pcoded-content {
-    padding: 25px 5px;
+    padding: 25px 15px;
 }
 
 .pcoded-navbar.dashboard-nav~.pcoded-header .m-header {
